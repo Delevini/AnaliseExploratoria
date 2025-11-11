@@ -7,6 +7,7 @@
 library(readxl)
 library(dplyr)
 library(ggplot2)
+library(htmlwidgets)
 
 # (Repetindo a importação e fatoração para este script ser independente)
 dados <- read_xlsx("Base_trabalho.xlsx")
