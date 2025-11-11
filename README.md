@@ -20,3 +20,54 @@ Score por Escolaridade: Ao analisar o score de periculosidade por escolaridade, 
 Gráfico de Reincidência: O gráfico de barras deixa claro que a grande maioria dos indivíduos nesta amostra não é reincidente. A contagem de "Sim" é significativamente menor que a de "Não".
 
 ![Gráfico de Barras](barras_reincidente.png)
+
+Gráfico de Dispersão: indica uma boa relação entre o score de periculosidade e o tempo preso, com a linha de regressão bastante evidente.
+
+![Gráfico de dispersão](dispersao_tempo_score)
+
+
+```
+ score_periculosidade     idade        tempo_preso   
+ Min.   : 91.05       Min.   :18.00   Min.   :37.00  
+ 1st Qu.:155.70       1st Qu.:34.00   1st Qu.:53.75  
+ Median :177.21       Median :52.00   Median :60.50  
+ Mean   :174.52       Mean   :50.91   Mean   :60.59  
+ 3rd Qu.:191.12       3rd Qu.:64.25   3rd Qu.:67.00  
+ Max.   :247.07       Max.   :97.00   Max.   :88.00  
+
+```
+
+correlação : 0.8037558
+
+"Score de Periculosidade:"
+
+variancia
+ 660.5837
+
+desvio_padrao
+ 25.70182
+
+amplitude
+ 156.02
+
+"Idade:"
+
+variancia
+ 374.0782
+
+desvio_padrao
+ 19.3411
+
+amplitude
+ 79
+
+"Tempo Preso:"
+
+variancia
+ 99.08822
+
+desvio_padrao
+ 9.954306
+
+amplitude
+ 51
