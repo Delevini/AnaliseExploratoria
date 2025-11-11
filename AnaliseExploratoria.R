@@ -63,3 +63,6 @@ print("Tempo Preso:")
 print(medidas_tempo)
 
 print("--- Script de Análise Exploratória concluído! ---")
+
+
+#### FIM ####
