@@ -1,7 +1,6 @@
 # AnaliseExploratoria
 Atividade de prática 2
 
-
 Dados Faltantes: A análise inicial mostra que a base de dados está completa, sem nenhum valor faltante (missing), o que é excelente para a análise.
 
 ![Dados faltantes](grafico_dados_faltantes.png)
