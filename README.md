@@ -23,7 +23,7 @@ Gráfico de Reincidência: O gráfico de barras deixa claro que a grande maioria
 
 Gráfico de Dispersão: indica uma boa relação entre o score de periculosidade e o tempo preso, com a linha de regressão bastante evidente.
 
-![Gráfico de dispersão](dispersao_tempo_score)
+![Gráfico de dispersão](dispersao_tempo_score.png)
 
 
 ```
